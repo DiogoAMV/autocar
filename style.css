@@ -358,7 +358,7 @@ body {
   top: -16.8%;
 }
 
-#home .image video {
+#home .image .img {
   border-radius: 0.25rem;
   max-width: 80%;
   position: relative;
