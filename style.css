@@ -360,7 +360,7 @@ body {
 
 #home .image .img {
   border-radius: 0.25rem;
-  max-width: 80%;
+  max-width: 100%;
   position: relative;
   right: 2.93rem;
 }
@@ -969,5 +969,9 @@ footer .social a:hover {
   .cards {
     padding-left: 3rem;
     padding-right: 3rem;
+  }
+
+  #home .image .img {
+    max-width: 80%;
   }
 }
